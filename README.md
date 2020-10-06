@@ -1,0 +1,3 @@
+# Pokladna-1
+School project ...
+Miroslav Šperka
